@@ -20,4 +20,4 @@ nodes, filter dimension, pooling dimension etc.). Show your results on both trai
 Structure:
 Convolutional layer -> Max pooling layer -> Convolutional layer - > Max pooling layer -> Fully connected
 layer x2 -> Softmax layer
-Deliverabl
+
